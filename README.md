@@ -64,7 +64,7 @@
 <div align="center">
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanderGi&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats-eight-psi.vercel.app/?user=SanderGi&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanderGi&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook,html,css)
 </div>
 
