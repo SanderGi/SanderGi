@@ -63,14 +63,14 @@
 # 📈 GitHub Stats:
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight-psi.vercel.app/?user=SanderGi&theme=dark&hide_border=false#gh-dark-mode-only)
-![GitHub Streak](https://github-readme-streak-stats-eight-psi.vercel.app/?user=SanderGi&theme=light&hide_border=false#gh-light-mode-only)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-eight-psi.vercel.app/?user=SanderGi&theme=dark&hide_border=false#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats-eight-psi.vercel.app/?user=SanderGi&theme=light&hide_border=false#gh-light-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only)<br/>
 
-![Github Stats](https://github-readme-stats-plum-gamma-36.vercel.app/api?username=SanderGi&theme=dark&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR#gh-dark-mode-only)
-![Github Stats](https://github-readme-stats-plum-gamma-36.vercel.app/api?username=SanderGi&theme=light&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR#gh-light-mode-only)<br/>
+[![Github Stats](https://github-readme-stats-plum-gamma-36.vercel.app/api?username=SanderGi&theme=dark&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Github Stats](https://github-readme-stats-plum-gamma-36.vercel.app/api?username=SanderGi&theme=light&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/>
 
-![Top Languages](https://github-readme-stats-plum-gamma-36.vercel.app/api/top-langs/?username=SanderGi&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook,html,css&hide_title=true#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats-plum-gamma-36.vercel.app/api/top-langs/?username=SanderGi&theme=light&hide_border=false&layout=compact&hide=jupyter%20notebook,html,css&hide_title=true#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats-plum-gamma-36.vercel.app/api/top-langs/?username=SanderGi&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook,html,css&hide_title=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-plum-gamma-36.vercel.app/api/top-langs/?username=SanderGi&theme=light&hide_border=false&layout=compact&hide=jupyter%20notebook,html,css&hide_title=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
 
 <br/>
@@ -80,7 +80,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![Github Trophies](https://github-profile-trophy-mu-rosy.vercel.app/?username=SanderGi&include_all_commits=true&no-frame=false&margin-w=4&margin-h=4&theme=darkhub&column=7&roles=OWNER,COLLABORATOR#gh-dark-mode-only)
-![Github Trophies](https://github-profile-trophy-mu-rosy.vercel.app/?username=SanderGi&include_all_commits=true&no-frame=false&margin-w=4&margin-h=4&theme=light&column=7&roles=OWNER,COLLABORATOR#gh-light-mode-only)
+[![Github Trophies](https://github-profile-trophy-mu-rosy.vercel.app/?username=SanderGi&include_all_commits=true&no-frame=false&margin-w=4&margin-h=4&theme=darkhub&column=7&roles=OWNER,COLLABORATOR#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![Github Trophies](https://github-profile-trophy-mu-rosy.vercel.app/?username=SanderGi&include_all_commits=true&no-frame=false&margin-w=4&margin-h=4&theme=light&column=7&roles=OWNER,COLLABORATOR#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
 </div>
