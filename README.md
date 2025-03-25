@@ -3,11 +3,11 @@
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=SanderGi&label=Profile%20views&color=0e75b6&style=flat" alt="SanderGi's profile views" /></p>
 
-- 🔭 I’m currently working on **open-source pronunciation learning tools as CEO of [Koel Labs](https://github.com/KoelLabs)**
-- 🌱 I’m currently learning **Rust** and **Numerical Analysis**
+- 🔭 I’m working on **open-source pronunciation learning tools as CEO of [Koel Labs](https://github.com/KoelLabs)**
+- 🌱 I’m learning **Rust** and **Numerical Analysis**
 - 👯 I’m looking to collaborate on **fun open-source projects** <!-- - 👨‍💻 I'm open to part-time **research or software development roles** -->
 - 💬 Ask me about **open-source, classical music, machine learning, language learning** or **board games**
-- 📫 How to reach me: **alex@sandergi.com**
+- 📫 Reach me via **alex@sandergi.com**
 - 😄 Pronouns: **he/him**
 - 🎻 Fun fact: **I've played the violin since I was 4.5**
   
